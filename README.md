@@ -27,3 +27,5 @@ World码是一款微信扫码群发软件，由程序开发者hong基于微信�
 
 ![hong](https://github.com/shuicheng/worldma/raw/master/img/hong.jpg)
 ![hong](https://github.com/shuicheng/worldma/raw/master/img/worldma.jpg)  
+
+# “world码”正在持续开发改进中，多谢提供建议和反馈问题
