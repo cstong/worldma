@@ -22,10 +22,19 @@ World码是一款微信扫码群发软件，由程序开发者hong基于微信�
 5.浏览器：http://127.0.0.1:8091/<br />
 6.请在windows系统中运行该程序
 
+# “world码”说明
+
+该项目处于开发测试阶段，如果你在使用中发现问题，请通过下面的方式联系我，或者看下面的问题反馈
+
+# “world码”需求
+
+1.该项目需要1到多个微信好友在2000或以上测试账号，以测试程序的性能和稳定性，<br />
+如果你想提供符合条件的测试微信号，请通过下面的方式联系我，谢谢
+
 
 # “world码”联系方式
 
 ![hong](https://github.com/shuicheng/worldma/raw/master/img/hong.jpg)
 ![hong](https://github.com/shuicheng/worldma/raw/master/img/worldma.jpg)  
 
-# “world码”正在持续开发改进中，多谢提供建议和反馈问题
+# “world码”正在持续开发改进中，多谢提供建议和问题反馈
