@@ -19,7 +19,7 @@ World码是一款微信扫码群发软件，由程序开发者hong基于微信�
 2.安装MySQL5.7， 用户名：root  密码：root<br />
 3.创建wxhong数据库，并导入wxhong.sql文件<br />
 4.打开：cmd， 执行：java -jar wxhong.jar<br />
-5.浏览器：http://127.0.0.1:8091/
+5.浏览器：http://127.0.0.1:8091/<br />
 6.请在windows系统中运行该程序
 
 
